@@ -13,6 +13,10 @@ Passionate about gastronomy, travel, drinks, sports and technology, some of my h
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/odisley-silva-00b38457/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=Twitter&logoColor=0E76A8)](https://twitter.com/odisley)
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=Facebook&logoColor=0E76A8)](https://www.facebook.com/odisleyribeirosilva)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=WhatsApp&logoColor=075e54)](https://www.instagram.com/odisleyrsilva_/)
+[![Threads](https://img.shields.io/badge/Threads-000?style=for-the-badge&logo=Threads&logoColor=FFFFFF)](https://www.instagram.com/odisleyrsilva_/)
+
+
 
 ## Skills
 
@@ -21,6 +25,11 @@ Passionate about gastronomy, travel, drinks, sports and technology, some of my h
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php)
+![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
+![Mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
 
 ## GitHub Stats
 
