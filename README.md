@@ -30,7 +30,7 @@ Passionate about gastronomy, travel, drinks, sports and technology, some of my h
 ![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django)
 ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
 ![Mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
-![Mysql](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java)
 
 ## GitHub Stats
 
